@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/cucumber-core-5.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/cucumber-expressions-8.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/cucumber-html-0.2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/cucumber-java-5.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/cucumber-junit-5.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/jetty-io-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/jetty-util-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/selenium-api-2.47.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/selenium-api-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/selenium-htmlunit-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/selenium-remote-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/selenium-support-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/websocket-api-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/websocket-client-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/websocket-common-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/cucumber jars/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/Chrome Driver/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/Test NG/testng-6.10.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
